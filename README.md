@@ -1,4 +1,4 @@
-[![IgorKock's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKock&show_icons=true&bg_color=001B40&title_color=FFFFFF&text_color=00DBFF&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![IgorKock's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKock)](https://github.com/anuraghazra/github-readme-stats)
 
 Portuguese:
 
