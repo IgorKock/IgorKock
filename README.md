@@ -5,7 +5,7 @@ Portuguese:
 >
 > Fique a vontade em explorar os projetos que estou trabalhando atualmente e também alguns dos forks que eu fiz de outros projetos (Por alguma razão o GitHub não conta coisas de fork).
 >
-> Se quiser entrar em contato comigo, fique a vontade de mandar um email ou uma mensagem no meu LinkedIn (está localizado no lado).
+> Se quiser entrar em contato comigo, fique a vontade para me mandar um email ou uma mensagem no meu LinkedIn (está localizado no lado).
 
 English:
 > Hi!
