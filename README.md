@@ -4,7 +4,7 @@ Olá!
 
 Fique a vontade em explorar os projetos que estou trabalhando atualmente e também alguns dos forks que eu fiz de outros projetos.
 
-Se quiser entrar em contato comigo, fique a vontade para enviar um e-mail ou uma mensagem no LinkedIn (está localizado em baixo do meu perfil).
+Se quiser entrar em contato comigo, fique a vontade para enviar um e-mail ou uma mensagem no LinkedIn (localizado em baixo do meu perfil).
 
 English:
 
