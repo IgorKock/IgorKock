@@ -1,4 +1,4 @@
-## 🇧🇷 Português
+## Português
 
 Olá!
 
@@ -6,7 +6,7 @@ Fique a vontade em explorar os projetos que estou trabalhando atualmente e tamb�
 
 Se quiser entrar em contato comigo, fique a vontade para enviar um e-mail ou uma mensagem no LinkedIn (está abaixo do meu perfil).
 
-## 🇪🇳 English
+## English
 
 Hi!
 
